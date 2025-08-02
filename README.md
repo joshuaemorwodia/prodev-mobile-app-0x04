@@ -4,20 +4,20 @@ This is a mobile application developed using **React Native** and **Expo Router*
 
 ## 📱 Features
 
-- 📂 Organized screen structure with Expo Router
-- 🧭 Stack navigation for smooth screen transitions
-- 🌄 Custom assets and image loading
-- 🧠 Constants module for managing static content
-- ⚡ Responsive design for mobile and web
-- 🧪 Easily extendable with components and hooks
+* 📂 Organized screen structure with Expo Router
+* 🧭 Stack navigation for smooth screen transitions
+* 🌄 Custom assets and image loading
+* 🧠 Constants module for managing static content
+* ⚡ Responsive design for mobile and web
+* 🧪 Easily extendable with components and hooks
 
 ## 🔧 Tech Stack
 
-- **React Native** (with Expo)
-- **Expo Router** for screen-based routing
-- **TypeScript**
-- **Metro bundler**
-- **Git & GitHub**
+* **React Native** (with Expo)
+* **Expo Router** for screen-based routing
+* **TypeScript**
+* **Metro bundler**
+* **Git \& GitHub**
 
 ## 🗂️ Project Structure
 

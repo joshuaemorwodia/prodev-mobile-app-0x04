@@ -1,16 +1,23 @@
-# prodev-mobile-app-0x04
+# ProDev Mobile App – 0x04
 
-This is a multi-screen React Native app built with Expo Router for ALX project 0x04. It demonstrates UI layouts and stack navigation.
+This is a mobile application developed using **React Native** and **Expo Router** as part of the ALX Frontend specialization program. The app features a multi-screen layout with modern design patterns, dynamic asset loading, and smooth navigation.
 
-## 📦 Features
+## 📱 Features
 
-- Stack Navigation between Home, Join, and Signin screens
-- Custom styles separated into reusable files
-- Asset management for logos and background images
+- 📂 Organized screen structure with Expo Router
+- 🧭 Stack navigation for smooth screen transitions
+- 🌄 Custom assets and image loading
+- 🧠 Constants module for managing static content
+- ⚡ Responsive design for mobile and web
+- 🧪 Easily extendable with components and hooks
 
-## 🚀 Getting Started
+## 🔧 Tech Stack
 
-### 1. Install dependencies
+- **React Native** (with Expo)
+- **Expo Router** for screen-based routing
+- **TypeScript**
+- **Metro bundler**
+- **Git & GitHub**
 
-```bash
-npm install
+## 🗂️ Project Structure
+
